@@ -1,0 +1,14 @@
+button{
+    height: 3rem;
+    width: 13rem;
+    background-color: black;
+    color: white;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    cursor: pointer;
+}
